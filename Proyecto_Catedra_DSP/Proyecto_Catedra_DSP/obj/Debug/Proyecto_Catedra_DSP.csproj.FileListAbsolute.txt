@@ -1,0 +1,30 @@
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.exe.config
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.exe
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.pdb
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.csprojResolveAssemblyReference.cache
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.Properties.Resources.resources
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.csproj.GenerateResource.Cache
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.exe
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.pdb
+c:\users\marquez\documents\visual studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.AdministradorDeBodega.resources
+C:\Users\marquez\Documents\Visual Studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.EmpleadoDeBodega.resources
+C:\Users\marquez\Documents\Visual Studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.InicioDePrograma.resources
+C:\Users\marquez\Documents\Visual Studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.Login.resources
+C:\Users\marquez\Documents\Visual Studio 2015\Projects\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.AdministradorDePrincipal.resources
+C:\Users\Marquez\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.exe.config
+C:\Users\Marquez\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.exe
+C:\Users\Marquez\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.pdb
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.exe.config
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.exe
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\bin\Debug\Proyecto_Catedra_DSP.pdb
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.csprojAssemblyReference.cache
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.AdministradorDeBodega.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.AdministradorDePrincipal.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.EmpleadoDeBodega.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.InicioDePrograma.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.Login.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.Properties.Resources.resources
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.csproj.GenerateResource.cache
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.exe
+C:\Users\Alexis\Desktop\FuncionaUnaGranParte\Proyecto_Catedra_DSP\Proyecto_Catedra_DSP\obj\Debug\Proyecto_Catedra_DSP.pdb

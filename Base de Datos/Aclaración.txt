@@ -1,0 +1,7 @@
+Para recrear nuestra base de datos, usted debe hacer una 
+restauración de esta en la herramienta SQL Server, ya 
+que esta es un archivo tipo Back-up.
+
+Si su SQL Server no reconoce el archivo como un .Bak
+; solo cambie el tipo de archivo que se desea buscar de .Bak a 
+"Todos los archivos" y recree normalmente la base de datos

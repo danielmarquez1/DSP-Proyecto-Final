@@ -1,0 +1,35 @@
+﻿@model IEnumerable<Proyecto_Asp_Final.sucursal>
+
+@{
+    ViewBag.Title = "Sucursales";
+}
+
+<h2>Sucursales</h2>
+
+<center><input type="button" value="refrescar" onclick="javascript:window.location.reload();" class="btn btn-default"/></center>
+<br />
+<table class="table">
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.Nombre)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Direccion)
+        </th>
+        <th></th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelItem => item.Nombre)
+            </td>
+            <td>
+                @Html.DisplayFor(modelItem => item.Direccion)
+            </td>
+
+        </tr>
+    }
+
+</table>

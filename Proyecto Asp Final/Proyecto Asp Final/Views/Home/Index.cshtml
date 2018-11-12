@@ -1,0 +1,33 @@
+﻿@{
+    ViewBag.Title = "Home Page";
+}
+
+<div class="jumbotron">
+    <h1>Bienvenido al Sistema de inventario web de AutoTech</h1>
+    <center><img src="~/logo.jpeg" /></center>
+    <p class="lead">En este sistema web usted podrá ver los diferentes articulos y usuarios que están disponibles, así como las diferentes sucursales que dispone nuestra franquicia de venta de repuestos para motos y automoviles</p>
+
+</div>
+
+<div class="row">
+    <div class="col-md-4">
+        <h2>Ver Inventario</h2>
+        <p>
+            Listado de articulos existentes en bodega
+            <br />
+            <br />
+        </p>
+        <p class="btn btn-default">@Html.ActionLink("Ir a Invetario", "Index", "Inventarios")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Sucursales</h2>
+        <p>Listado de sucursales existentes en el país</p>
+        <br />
+        <p class="btn btn-default">@Html.ActionLink("Sucursales", "Index", "Sucursals")</p>
+    </div>
+    <div class="col-md-4">
+        <h2>Usuarios</h2>
+        <p>Listado de todos los usuarios registrados hasta el momento con sus respectivos cargos </p>
+        <p class="btn btn-default">  @Html.ActionLink("Ir a Usuarios", "Index", "Usuarios")</p>
+    </div>
+</div>

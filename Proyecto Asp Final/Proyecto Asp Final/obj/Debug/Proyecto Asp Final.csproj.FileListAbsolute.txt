@@ -1,0 +1,82 @@
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\ApplicationInsights.config
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Proyecto Asp Final.dll.config
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Proyecto Asp Final.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Proyecto Asp Final.pdb
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\csc.exe
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\csc.exe.config
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\csc.rsp
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\csi.exe
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\csi.rsp
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.AppContext.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\vbc.exe
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\vbc.exe.config
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\vbc.rsp
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\VBCSCompiler.exe
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Antlr3.Runtime.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\EntityFramework.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\EntityFramework.SqlServer.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.Web.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.ApplicationInsights.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Newtonsoft.Json.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Helpers.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Mvc.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Optimization.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Razor.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.Deployment.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.Razor.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\WebGrease.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\EntityFramework.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\EntityFramework.SqlServer.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Helpers.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Mvc.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Optimization.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.Razor.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.Deployment.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Web.WebPages.Razor.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Newtonsoft.Json.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Antlr3.Runtime.pdb
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.AI.Web.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.Helpers.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.Mvc.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.Optimization.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.Razor.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.WebPages.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.WebPages.Deployment.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\bin\es\System.Web.WebPages.Razor.resources.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\obj\Debug\Proyecto Asp Final.csproj.CoreCompileInputs.cache
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\obj\Debug\Proyecto Asp Final.csproj.CopyComplete
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\obj\Debug\Proyecto Asp Final.dll
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\obj\Debug\Proyecto Asp Final.pdb
+C:\Users\Alexis\Desktop\Proyecto Asp Final\Proyecto Asp Final\obj\Debug\Proyecto Asp Final.csprojAssemblyReference.cache
